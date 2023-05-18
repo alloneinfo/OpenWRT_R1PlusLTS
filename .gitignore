@@ -32,3 +32,5 @@ git-src
 .cproject
 .ccache
 .vscode*
+r1pluslts.diff
+meger_openwrt.sh

@@ -5,5 +5,5 @@ src-git-full telephony https://git.openwrt.org/feed/telephony.git;openwrt-22.03
 
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;packages
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;nft_dev
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
 src-link myfeeds /home/kanny/myopenwrt/feeds/r1pluslts
